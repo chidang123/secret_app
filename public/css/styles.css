@@ -1,0 +1,13 @@
+body {
+    background-image: url(/images/background.png);
+    background-repeat: no-repeat;
+
+}
+
+.box {
+   margin: 740px 650px 0px 650px;
+}
+
+.outbox {
+    background-image: url(/images/background1.png);
+}
